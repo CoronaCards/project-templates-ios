@@ -29,7 +29,7 @@ The rest of the process is the same as for [creating any Xcode project](https://
 
 The CoronaCards project templates support both Objective-C and Swift. You can choose the preferred programming language via the `Language` pulldown that appears in the project options dialog:
 
-![Xcode-CoronaCards-Project-Template-Swift-ObjC](Xcode-CoronaCards-Project-Template-Swift-ObjC.png)
+![Xcode-CoronaCards-Project-Template-Swift-ObjC](README/Xcode-CoronaCards-Project-Template-Swift-ObjC.png)
 
 # Requirements
 
