@@ -19,7 +19,7 @@ Choose the `New Project` menu item:
 
 ![Xcode-CoronaCards-Project-Template-Menu](README/Xcode-CoronaCards-Project-Template-Menu.png)
 
-You should see `CoronaCards Apps` as a category in the template picker:
+You should see `CoronaCards Apps` as a category in the template picker. You can choose between the `Single CoronaView` template and the `Child CoronaView` templates:
 
 ![Xcode-CoronaCards-Project-Template-Picker](README/Xcode-CoronaCards-Project-Template-Picker.png)
 
