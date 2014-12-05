@@ -15,7 +15,7 @@ NOTE: The project templates expect `CoronaCards.framework` to be installed at `/
 
 # Creating a New Project
 
-Choose the `New Project` menu item:
+From Xcode, choose the `New Project` menu item:
 
 ![Xcode-CoronaCards-Project-Template-Menu](README/Xcode-CoronaCards-Project-Template-Menu.png)
 
