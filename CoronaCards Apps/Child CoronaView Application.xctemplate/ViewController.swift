@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController : UIViewController
 {
-	var coronaController = [CoronaViewController]()
+	var coronaController : CoronaViewController!
 
 	override func viewDidLoad()
 	{
@@ -20,19 +20,19 @@ class ViewController : UIViewController
 		self.coronaController = CoronaViewController()
 		self.addChildViewController(self.coronaController)
 
-		var parent : UIView = self.view;
-		var coronaView = self.coronaController.view as CoronaView;
+		var parent : UIView = self.view
+		var coronaView = self.coronaController.view as CoronaView
 		
 		// Resize and center CoronaView
-		var rect = parent.frame;
-		rect.size.width *= 0.5;
-		rect.size.height *= 0.5;
-		coronaView.frame = rect; // Half the size of the parent
-		coronaView.center = parent.center; // Position at center
+		var rect = parent.frame
+		rect.size.width *= 0.5
+		rect.size.height *= 0.5
+		coronaView.frame = rect // Half the size of the parent
+		coronaView.center = parent.center // Position at center
 
-		parent.addSubview(coronaView);
+		parent.addSubview(coronaView)
 
-		coronaView.run();
+		coronaView.run()
 	}
 
 	override func didReceiveMemoryWarning()
