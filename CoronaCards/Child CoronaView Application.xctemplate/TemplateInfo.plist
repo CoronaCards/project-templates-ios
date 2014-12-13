@@ -208,7 +208,6 @@
 			<key>Frameworks</key>
 			<array>
 				<string>CoronaCards</string>
-				<string>AdSupport</string>
 				<string>AudioToolbox</string>
 				<string>AVFoundation</string>
 				<string>CFNetwork</string>
