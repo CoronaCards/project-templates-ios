@@ -7,7 +7,7 @@ This contains Xcode project templates for CoronaCards so you can create Xcode pr
 
 # Installation
 
-Copy the `CoronaCards Apps` folder into the Xcode templates folder:
+Copy the `CoronaCards` folder into the Xcode templates folder:
 
 	`~/Library/Developer/Xcode/Templates`
 
@@ -19,7 +19,7 @@ From Xcode, choose the `New Project` menu item:
 
 ![Xcode-CoronaCards-Project-Template-Menu](README/Xcode-CoronaCards-Project-Template-Menu.png)
 
-You should see `CoronaCards Apps` as a category in the template picker. You can choose between the `Single CoronaView` or the `Child CoronaView` template:
+You should see `CoronaCards` as a category in the template picker. You can choose between the `Single CoronaView` or the `Child CoronaView` template:
 
 ![Xcode-CoronaCards-Project-Template-Picker](README/Xcode-CoronaCards-Project-Template-Picker.png)
 
