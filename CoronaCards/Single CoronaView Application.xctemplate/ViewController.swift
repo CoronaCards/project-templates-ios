@@ -15,7 +15,7 @@ class ViewController : CoronaViewController
 		super.viewDidLoad()
 		// Do any additional setup after loading the view, typically from a nib.
 
-		var view = self.view as CoronaView // Force downcast
+		let view = self.view as! CoronaView // Force downcast
 		view.run()
 	}
 

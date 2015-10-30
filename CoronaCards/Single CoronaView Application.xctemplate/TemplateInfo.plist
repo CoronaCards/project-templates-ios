@@ -192,6 +192,8 @@
 			<dict>
 				<key>ALWAYS_SEARCH_USER_PATHS</key>
 				<string>YES</string>
+				<key>ENABLE_BITCODE</key>
+				<string>NO</string>
 				<key>FRAMEWORK_SEARCH_PATHS</key>
 				<string>/Users/Shared/CoronaLabs/ios/</string>
 				<key>OTHER_LDFLAGS</key>

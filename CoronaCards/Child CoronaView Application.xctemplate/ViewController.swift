@@ -20,8 +20,8 @@ class ViewController : UIViewController
 		self.coronaController = CoronaViewController()
 		self.addChildViewController(self.coronaController)
 
-		var parent : UIView = self.view
-		var coronaView = self.coronaController.view as CoronaView
+		let parent : UIView = self.view
+		let coronaView = self.coronaController.view as! CoronaView
 		
 		// Resize and center CoronaView
 		var rect = parent.frame
