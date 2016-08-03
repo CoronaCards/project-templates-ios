@@ -31,6 +31,13 @@ The CoronaCards project templates support both Objective-C and Swift. You can ch
 
 ![Xcode-CoronaCards-Project-Template-Swift-ObjC](README/Xcode-CoronaCards-Project-Template-Swift-ObjC.png)
 
+
+### `license.ccdata`
+
+In order for any CoronaCards project to work, you must put a valid `license.ccdata` file into the `Corona`  folder (near `main.lua`), otherwise you'll get a black screen and error message in the console.
+
+
+
 # Requirements
 
 * Xcode 6.1
